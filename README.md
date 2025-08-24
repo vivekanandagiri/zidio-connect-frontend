@@ -258,8 +258,3 @@ If you encounter any issues or have questions:
 
 ---
 
-## Original Lovable Project Info
-
-**URL**: https://lovable.dev/projects/d26bdeb0-a57e-4aad-aba7-3aa48669d35f
-
-This project was initially created with Lovable and has been extended with a complete backend implementation.
